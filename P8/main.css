@@ -1,0 +1,93 @@
+body{
+    font-family:'New Tegomin', serif;
+    margin: 0px;
+    padding: 0px;
+    background-image: url('bg1.jpg');
+    /* height: 2000px;
+    width: 1000px; */
+    background-repeat: no-repeat;/* repeat x and repeat y will make it repeat on x and y axis */
+    background-position:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.left{
+    font-family:'New Tegomin', serif;
+    font-weight: bold;
+    /* border: 2px solid red; */
+    display: inline-block;
+    position: absolute;
+    left: 36px;
+    top: 30px;
+}
+.left img{
+    height: 100px;
+    width: 100px;
+}
+.left div{
+    text-align: center;
+    line-height: 20px;
+    font-size: 16px;
+}
+.middle{
+    /* border: 2px solid red; */
+    font-family:'New Tegomin', serif;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    width: 40%;
+    font-size: 20px;
+}
+.right{
+    /* border: 2px solid red; */
+    display: inline-block;
+    position: absolute;
+    right: 36px;
+    top: 30px;
+}
+.navbar li{
+    display: inline-block;
+    padding: 18px 30px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: blueviolet;
+    text-decoration: underline;
+}
+.btn{
+    font-family: 'New Tegomin', serif;
+    margin: 0px 10px;
+    color: whitesmoke;
+    background-color: rgb(117, 102, 245);
+    padding: 4px 14px;
+    border: 2px solid rgb(231, 60, 60);
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(184, 17, 226);
+}
+.container{
+    /* border: 2px solid greenyellow; */
+    font-family: 'New Tegomin', serif;
+    margin:200px 16px;
+    padding: 60px;
+    width: 33%;
+    border-radius: 26px;
+}
+.form input{
+    display: block;
+    padding: 10px;
+    border-radius: 22px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 12px auto;
+    text-align: center;
+}
+.container button{
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+}
