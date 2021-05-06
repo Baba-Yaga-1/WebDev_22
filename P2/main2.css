@@ -1,0 +1,121 @@
+body{
+    background-image: url("https://image.freepik.com/free-vector/abstract-blue-violet-light-line-slash-dark-grey-blank-space-design-modern-futuristic-background_104237-144.jpg");
+    height: 500px;
+    width: 500px;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+}
+.main{
+    background-image:linear-gradient(to bottom,rgba(0, 0, 255,0),rgba(0, 0, 255,0.6));
+    border: 2px solid rgb(10, 4, 4);
+    height: 700px;
+    width: 1500px;
+    border-radius: 400px;
+
+}
+.container-1{
+    /* border: 2px solid red; */
+    /* color: white; */
+    display: inline;
+    position: absolute;
+    height: 180px;
+    width: 280px;
+    margin-top: 120px;
+    margin-left: 400px;
+}
+.container-1 a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    cursor: pointer;
+}
+.container-1 a:hover{
+    color: rgb(89, 111, 231);
+    text-decoration: none;
+    /* float: right; */
+    cursor: pointer;
+}
+.img-1{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+    
+}
+.container-2{
+    /* border: 2px solid red; */
+    display: inline;
+    position: absolute;
+    height: 180px;
+    width: 280px;
+    margin-top: 120px;
+    margin-left: 900px;
+}
+.container-2 a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    cursor: pointer;
+}
+.container-2 a:hover{
+    color: rgb(231, 89, 212);
+    text-decoration: none;
+    /* float: right; */
+    cursor: pointer;
+}
+.img-2{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
+.container-3{
+    /* border: 2px solid red; */
+    display: inline;
+    position: absolute;
+    height: 180px;
+    width: 280px;
+    margin-top: 420px;
+    margin-left: 400px;
+}
+.container-3 a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    cursor: pointer;
+}
+.container-3 a:hover{
+    color: rgb(236, 22, 32);
+    text-decoration: none;
+    /* float: right; */
+    cursor: pointer;
+}
+.img-3{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
+.container-4{
+    /* border: 2px solid red; */
+    display: inline;
+    position: absolute;
+    height: 180px;
+    width: 280px;
+    margin-top: 420px;
+    margin-left: 900px;
+}
+.container-4 a{
+    color: white;
+    text-decoration: none;
+    float: left;
+    cursor: pointer;
+}
+.container-4 a:hover{
+    color: rgb(240, 51, 124);
+    text-decoration: none;
+    /* float: right; */
+    cursor: pointer;
+}
+.img-4{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
