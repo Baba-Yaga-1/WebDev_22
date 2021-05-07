@@ -1,0 +1,93 @@
+body{
+    background-image: url("https://www.wallpapertip.com/wmimgs/72-726484_purple-background-desktop-background-dark-purple-sunset.jpg");
+    /* background-repeat: no-repeat; */
+}
+.container{
+    /* border: 2px solid rgb(212, 10, 212); */
+    /* background-image:linear-gradient(to bottom,rgba(6, 6, 22, 0),rgba(116, 180, 233, 0.6)); */
+    height: 550px;
+    width: 1300px;
+    display: inline-block;
+    margin-top: 110px;
+    margin-left: 100px; 
+}
+#box_1{
+    background-image: linear-gradient(rgb(22, 22, 23), rgb(61, 89, 214), rgb(22, 22, 23));
+    width:325px;
+    height:470px;
+    background-color:#ededf5;
+    margin-top:20px;
+    margin-left:85px;
+    box-shadow: -5px -5px 4px 1px rgb(12, 3, 3);
+    /* border-radius: 5%; */
+}
+#box_2{
+    background-image: linear-gradient(rgb(22, 22, 23), rgb(61, 89, 214), rgb(22, 22, 23));
+    width:325px;
+    height:470px;
+    background-color:#f1f1f7;
+    margin-top:-460px;
+    margin-left:485px;
+    box-shadow: -5px -5px 4px 1px rgb(22, 17, 17);
+    /* border-radius: 5%; */
+}
+#box_3{
+    background-image: linear-gradient(rgb(22, 22, 23), rgb(61, 89, 214), rgb(22, 22, 23));
+    width:325px;
+    height:470px;
+    background-color:#f3f3f7;
+    margin-top:-460px;
+    margin-left:885px;
+    box-shadow: -5px -5px 4px 1px rgb(14, 10, 10);
+    /* border-radius: 5%; */
+}
+.Image_1{
+    float:left;
+    margin-top:-440px;
+    margin-left:120px;
+    border-radius:40%;
+}
+.Image_2{
+    float:left;
+    margin-top:-440px;
+    margin-left:520px;
+    border-radius: 40%;
+}
+.Image_3{
+    float:left;
+    margin-top:-440px;
+    margin-left:920px;
+    border-radius: 40%;
+}
+#header{
+    float: left;
+    margin-top: -560px;
+    margin-left: 550px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: cornsilk;
+}
+.link-1{
+    float:left;
+    margin-top:-140px;
+    margin-left:170px;
+    border-radius: 40%;
+    text-decoration: none;
+    color: cornsilk;
+}
+.link-2{
+    float:left;
+    margin-top:-140px;
+    margin-left:560px;
+    border-radius: 40%;
+    text-decoration: none;
+    color: cornsilk;
+}
+.link-3{
+    float:left;
+    margin-top:-140px;
+    margin-left:960px;
+    border-radius: 40%;
+    text-decoration: none;
+    color: cornsilk;
+}
