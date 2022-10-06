@@ -21,3 +21,7 @@
 <img height="100" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <img height="100" width="100" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
 </p>
+
+<br>
+
+Live link - <a href="https://baba-yaga-1.github.io/WebDev_22/Random%20Joke%20Generator/">Random Joke Generator</a>
