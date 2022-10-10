@@ -20,9 +20,9 @@
 - Download or clone the repository
 - Go to the directory
 - Run the index.html file
-- Start the stopwatch
+- Start the stopwatch or access it directly through <a href="https://baba-yaga-1.github.io/WebDev_22/Stopwatch/">Stopwatch</a>
+
 
 <br>
 
 
-https://baba-yaga-1.github.io/WebDev_22/Stopwatch/
